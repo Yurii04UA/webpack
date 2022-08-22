@@ -1,0 +1,10 @@
+$border: 1px solid #ccc;
+
+.box {
+  padding: 50px;
+  border: $border;
+
+  h2 {
+    color: red;
+  }
+}

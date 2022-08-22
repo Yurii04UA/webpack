@@ -1,0 +1,17 @@
+@import "~normalize.css";
+
+.container {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+  padding-top: 100px;
+}
+h1 {
+  text-align: center;
+}
+.logo {
+  background-image: url("../assets/1.png");
+  background-size: cover;
+  height: 500px;
+  width: 500px;
+}
